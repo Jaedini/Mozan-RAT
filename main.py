@@ -76,7 +76,7 @@ try:
 
 
 
-    description = '''A simple discord bot that uses channels as a way to interact with clients.'''
+    description = '''.'''
 
     intents = discord.Intents.default()
     intents.members = True
